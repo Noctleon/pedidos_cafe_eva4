@@ -59,7 +59,7 @@ pedidos-cafe/
 
 ```bash
 git clone https://github.com/tu_usuario/pedidos-cafe.git
-cd reservas-cafe
+cd gestion_pedidos
 ```
 
 ### 2. Instalar dependencias
