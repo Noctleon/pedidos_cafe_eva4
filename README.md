@@ -58,7 +58,7 @@ pedidos-cafe/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/pedidos-cafe.git
+git clone https://github.com/Noctleon/pedidos-cafe.git
 cd gestion_pedidos
 ```
 
