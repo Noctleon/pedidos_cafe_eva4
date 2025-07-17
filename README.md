@@ -59,6 +59,8 @@ pedidos-cafe/
 
 ```bash
 git clone https://github.com/Noctleon/pedidos_cafe_eva4.git
+```
+```bash
 cd pedidos_cafe_eva4
 ```
 
