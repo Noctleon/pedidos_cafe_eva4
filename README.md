@@ -58,7 +58,7 @@ pedidos-cafe/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/reservas-cafe.git
+git clone https://github.com/tu_usuario/pedidos-cafe.git
 cd reservas-cafe
 ```
 
@@ -74,7 +74,7 @@ npm install
 npm run dev
 ```
 
-La aplicación estará disponible en `http://localhost:5173`
+La aplicación estará posiblemente disponible en `http://localhost:5173`
 
 ### 4. Construir para producción
 
