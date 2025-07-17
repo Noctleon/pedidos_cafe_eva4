@@ -26,7 +26,7 @@ La aplicación permite:
 - Visualizar las reservas actuales.
 - Eliminar o marcar una reserva como entregada.
 - Persistencia de datos mediante **localStorage**, asegurando que la información se mantenga al actualizar o cerrar la página.
-- Integración con APIs (como "random dog") para mostrar contenido adicional.
+- Integración con APIs (como "random dog" y "world time api") para mostrar contenido adicional.
 
 ## Tecnologías utilizadas
 
