@@ -58,8 +58,8 @@ pedidos-cafe/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Noctleon/pedidos-cafe.git
-cd gestion_pedidos
+git clone https://github.com/Noctleon/pedidos_cafe_eva4.git
+cd pedidos_cafe_eva4
 ```
 
 ### 2. Instalar dependencias
